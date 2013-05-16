@@ -1,1 +1,14 @@
-MEheheh :D
+Name Carbon Plate
+ShortName plateCarbon
+Icon CarbonPlate
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID Vyplnit
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 16
+RecipeOutput 4
+Recipe C coal D diamond
+ C 
+CDC
+ C
