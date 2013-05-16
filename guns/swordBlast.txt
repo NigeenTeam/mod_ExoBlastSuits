@@ -3,16 +3,19 @@ ShortName swordBlast
 Ammo cellPlasma
 Icon swordBlast
 Colour 255 255 255
-//
 ItemID 5016
 ReloadTime 60
 Recoil 2
 Damage 10
 Accuracy 1
 ShootDelay 10
-//
 ShootSound PlasmaShoot
 ReloadSound PlasmaReload
 Mode SemiAuto
 Deployable False
 DeployedModel None
+RecipeOutput 1
+Recipe S stickCarbon B miscBladeCrabon R miscBoxRay
+ B 
+ R 
+ S 
