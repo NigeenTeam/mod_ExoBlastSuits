@@ -1,1 +1,14 @@
-:/
+Name Slime Silicon Gel Can
+ShortName canSlimeSili
+Icon SlimeSiliCan
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID Vyplnit
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 1
+RecipeOutput 1
+Recipe S slimeball C canEmpty N netherQuartz
+ S 
+ N 
+ C 
