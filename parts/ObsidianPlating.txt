@@ -1,1 +1,14 @@
-Jeah :)
+Name Obsidian Plate
+ShortName plateObsidian
+Icon ObsidianPlating
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID Vyplnit
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 16
+RecipeOutput 2
+Recipe O obsidian
+ O
+OOO
+ O 
