@@ -2,7 +2,7 @@ Name Carbon Rod
 ShortName stickCarbon
 Icon CarbonRod
 Colour 255 255 255
-ItemID 5017
+ItemID 17018
 Category Misc
 StackSize 16
 RecipeOut 2
