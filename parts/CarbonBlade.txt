@@ -8,4 +8,7 @@ ItemID 5019
 Category Misc
 StackSize 64
 RecipeOutput 1
-Recipe 
+Recipe I iron C plateCarbon B miscCarbonChipset
+ IC
+ICI
+BI
