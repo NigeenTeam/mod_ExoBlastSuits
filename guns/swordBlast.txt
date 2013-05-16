@@ -5,7 +5,7 @@ Icon swordBlast
 Colour 255 255 255
 //
 ItemID 5016
-ReloadTime 30
+ReloadTime 60
 Recoil 2
 Damage 10
 Accuracy 1
