@@ -3,7 +3,7 @@ ShortName plateCarbon
 Icon CarbonPlate
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
-ItemID 5011
+ItemID 17015
 //Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
 Category Misc
 StackSize 16
