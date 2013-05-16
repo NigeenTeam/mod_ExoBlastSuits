@@ -9,4 +9,4 @@
 5015-canSlimeSili
 5016-swordBlast
 5021-cellPlasma
-5023-EmptyCell
+5023-cellEmpty
