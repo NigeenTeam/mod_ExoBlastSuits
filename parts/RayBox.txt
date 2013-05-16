@@ -1,6 +1,6 @@
 Name Ray Box
 ShortName miscBoxRay
-Icon RedstonePlating
+Icon BoxRay
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 ItemID 5018
