@@ -3,7 +3,7 @@ ShortName miscBoxRay
 Icon BoxRay
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
-ItemID 5018
+ItemID 17019
 //Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
 Category Misc
 StackSize 64
