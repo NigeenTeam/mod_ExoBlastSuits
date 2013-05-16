@@ -1,1 +1,18 @@
-:)
+Name Blast Carbon Sword
+ShortName swordBlast
+Ammo AKMMag
+Icon AKM
+Colour 255 255 255
+//
+ItemID 5016
+ReloadTime 30
+Recoil 2
+Damage 10
+Accuracy 1
+ShootDelay 10
+//
+ShootSound AKMshoot
+ReloadSound RIFLEreload
+Mode SemiAuto
+Deployable False
+DeployedModel None
