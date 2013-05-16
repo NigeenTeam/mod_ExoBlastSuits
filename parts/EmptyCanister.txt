@@ -1,8 +1,10 @@
 Name Empty Canister
 ShortName canisterEmpty
 Icon FuelEmpty
+//Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 ItemID 5006
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
 Category Misc
 StackSize 16
 RecipeOut 2
