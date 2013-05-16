@@ -3,3 +3,9 @@
 5002-armorBHead
 5003-armorBPants
 5004-armorBBody
+5005-fuelBio
+5006-canisterEmpty
+5007-miscBiomass
+5015-canSlimeSili
+5016-swordBlast
+5021-cellPlasma
