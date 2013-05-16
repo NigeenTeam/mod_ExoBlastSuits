@@ -1,1 +1,14 @@
-Hehe
+Name Empty Can
+ShortName canEmpty
+Icon EmptyCan
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID Vyplnit
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+RecipeOutput 16
+Recipe I iron
+ I 
+I I
+ I 
