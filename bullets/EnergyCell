@@ -2,7 +2,7 @@ Name Energy Cell
 ShortName cellEnergy
 Model Plasma
 Colour 255 255 255
-ItemID 5022
+ItemID 17012
 Icon EnergyCell
 FallSpeed 0
 RoundsPerItem 100
