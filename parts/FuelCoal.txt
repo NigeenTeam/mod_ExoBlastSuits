@@ -2,7 +2,7 @@ Name Coal Fuel
 ShortName fuelCoal
 Icon FuelCoal
 Colour 255 255 255
-ItemID 5010
+ItemID 17007
 Category Fuel
 Fuel 1000
 StackSize 1
