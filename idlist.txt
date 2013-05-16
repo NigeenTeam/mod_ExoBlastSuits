@@ -26,3 +26,4 @@
 17020-CarbonBlade
 17021-CarbonChipset
 //
+17022-BlastSword
