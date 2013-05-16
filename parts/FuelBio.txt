@@ -7,4 +7,7 @@ Category Fuel
 Fuel 1000
 StackSize 1
 RecipeOut 1
-Recipe C canisterEmpty
+Recipe C canisterEmpty B miscBiomass K dyePowder.2
+ K 
+ B 
+ C 
