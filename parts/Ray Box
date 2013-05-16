@@ -1,0 +1,14 @@
+Name Ray Box
+ShortName miscBoxRay
+Icon RedstonePlating
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 5018
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe R plateRedstone C plateCarbon D diamond B stickCarbon 
+CDC
+CRC
+CBC
