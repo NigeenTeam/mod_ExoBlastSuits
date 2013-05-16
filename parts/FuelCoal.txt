@@ -1,0 +1,13 @@
+Name Coal Fuel
+ShortName fuelCoal
+Icon FuelCoal
+Colour 255 255 255
+ItemID 5010
+Category Fuel
+Fuel 1000
+StackSize 1
+RecipeOut 1
+Recipe C canisterEmpty B Coal K dyePowder.14
+ K 
+ B 
+ C 
