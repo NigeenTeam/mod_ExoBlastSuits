@@ -1,1 +1,19 @@
-Tady bude Biofuel
+Name Energy Cell
+ShortName cellEnergy
+Model Plasma
+Colour 255 255 255
+ItemID 5022
+Icon EnergyCell
+FallSpeed 0
+RoundsPerItem 100
+Damage 5
+Explode False
+ExplodeOnImpact False
+Fuse 100
+FlakParticles 0
+Fire 0
+BreaksGlass True
+HitBoxSize 0.5
+HitSound bullet
+Penetrates True
+SmokeTrail False
