@@ -1,0 +1,15 @@
+Name Biomass
+ShortName miscBiomass
+Icon Biomass
+Colour 255 255 255
+ItemID 5007
+Category Misc
+StackSize 64
+RecipeOut 1
+ShapelessRecipe 2 seeds 2 reed 2 wheat
+ShapelessRecipe 2 seeds 4 wheat
+ShapelessRecipe 2 seeds 4 reed
+ShapelessRecipe 2 reed 4 seeds
+ShapelessRecipe 2 reed 4 wheat
+ShapelessRecipe 2 wheat 4 seeds
+ShapelessRecipe 2 wheat 4 reeds
