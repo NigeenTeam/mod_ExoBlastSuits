@@ -2,7 +2,7 @@ Name Biomass
 ShortName miscBiomass
 Icon Biomass
 Colour 255 255 255
-ItemID 5007
+ItemID 17005
 Category Misc
 StackSize 64
 RecipeOut 1
