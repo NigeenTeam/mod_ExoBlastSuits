@@ -3,7 +3,7 @@ ShortName swordBlast
 Ammo cellPlasma
 Icon swordBlast
 Colour 255 255 255
-ItemID 5016
+ItemID 17022
 ReloadTime 60
 Recoil 2
 Damage 10
