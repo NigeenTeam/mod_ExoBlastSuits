@@ -2,7 +2,7 @@ Name Redfuel
 ShortName fuelRed
 Icon FuelRed
 Colour 255 255 255
-ItemID 5005
+ItemID 5009
 Category Fuel
 Fuel 1200
 StackSize 1
