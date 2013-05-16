@@ -1,6 +1,6 @@
 Name Blast Carbon Sword
 ShortName swordBlast
-Ammo cellEnergy
+Ammo cellPlasma
 Icon swordBlast
 Colour 255 255 255
 //
