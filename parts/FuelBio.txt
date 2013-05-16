@@ -2,7 +2,7 @@ Name Biofuel
 ShortName fuelBio
 Icon FuelBio
 Colour 255 255 255
-ItemID 5005
+ItemID 17006
 Category Fuel
 Fuel 1000
 StackSize 1
