@@ -1,0 +1,12 @@
+Name Carbon Chipset
+ShortName miscCarbonChipset
+Icon CarbonChipset
+Colour 255 255 255
+ItemID 5020
+Category Misc
+StackSize 64
+RecipeOut 1
+Recipe C plateCarbon I iron R redstone
+CCC
+IRI
+CCC
