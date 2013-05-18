@@ -7,6 +7,7 @@ ItemID 17022
 ReloadTime 60
 Recoil 2
 Damage 10
+MeleeDamage 15
 Accuracy 1
 ShootDelay 10
 ShootSound PlasmaShoot
