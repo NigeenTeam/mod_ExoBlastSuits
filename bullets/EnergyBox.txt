@@ -1,0 +1,25 @@
+Name Energy Box
+ShortName boxEnergy
+Model Plasma
+Colour 255 255 255
+ItemID 17026
+Icon EnergyBox
+FallSpeed 0
+RoundsPerItem 1000
+Damage 5
+Explode False
+ExplodeOnImpact False
+Fuse 100
+FlakParticles 0
+Fire 0
+BreaksGlass True
+HitBoxSize 0.5
+HitSound bullet
+Penetrates True
+SmokeTrail False
+StackSize 1
+RecipeOutput 1
+Recipe E cellEnergy B boxCarbon
+EEE
+EBE
+EEE
