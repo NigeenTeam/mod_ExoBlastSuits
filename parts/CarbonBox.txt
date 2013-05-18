@@ -1,0 +1,14 @@
+Name Carbon Box
+ShortName boxCarbon
+Icon CarbonBox
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+ItemID 17025
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 16
+RecipeOutput 4
+Recipe E miscCellEmpty C plateCarbon
+CCC
+CEC
+CCC
