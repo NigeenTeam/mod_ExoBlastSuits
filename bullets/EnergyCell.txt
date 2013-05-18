@@ -17,3 +17,9 @@ HitBoxSize 0.5
 HitSound bullet
 Penetrates True
 SmokeTrail False
+StackSize 1
+RecipeOutput 1
+Recipe R plateRedstone C coal P cellEnergy
+RCR
+CPC
+RCR
