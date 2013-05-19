@@ -27,3 +27,5 @@
 17021-CarbonChipset
 //
 17022-BlastSword
+17025-CarbonBox
+17026-EnergyBox
