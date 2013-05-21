@@ -19,7 +19,4 @@ Penetrates True
 SmokeTrail False
 StackSize 1
 RecipeOutput 1
-Recipe E cellEnergy B boxCarbon
-EEE
-EBE
-EEE
+Recipe
