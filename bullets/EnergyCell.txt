@@ -19,7 +19,7 @@ Penetrates True
 SmokeTrail False
 StackSize 1
 RecipeOutput 1
-Recipe R plateRedstone C coal P cellEmpty
+Recipe R plateRedstone C coal P miscCellEmpty
 RCR
 CPC
 RCR
