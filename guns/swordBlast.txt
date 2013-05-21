@@ -16,7 +16,7 @@ Mode SemiAuto
 Deployable False
 DeployedModel None
 RecipeOutput 1
-Recipe S stickCarbon B miscBladeCrabon R miscBoxRay C plateCarbon H miscCarbonChipset
+Recipe S stickCarbon B miscBladeCarbon R miscBoxRay C plateCarbon H miscCarbonChipset
 CBC
 CRC
 HSH
