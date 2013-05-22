@@ -1,6 +1,7 @@
 Name Blast Carbon Sword
 ShortName swordBlast
 Ammo cellPlasma
+Ammo cellEnergy
 Icon swordBlast
 Colour 255 255 255
 ItemID 17022
