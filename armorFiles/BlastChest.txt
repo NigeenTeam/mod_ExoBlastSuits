@@ -6,6 +6,7 @@ Color 255 255 255
 ItemID 17003
 Type Body
 Defence 0.5
+ArmourTexture Blast
 Recipe C plateCarbon O plateObsidian R plateRedstone S canSlimeSili
 C C
 OSO
